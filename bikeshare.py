@@ -195,7 +195,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        # Loop for restarting over again
+        # Loop for starting with new inquiry
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
