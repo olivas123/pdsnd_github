@@ -83,7 +83,7 @@ def load_data(city, month, day):
 
     return df
 
-
+# descriptive statistics on time
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
@@ -105,7 +105,7 @@ def time_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-
+# descriptive statistics on stations
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
