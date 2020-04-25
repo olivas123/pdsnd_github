@@ -1,6 +1,6 @@
 ### Date created
-README file: 25th of April 2020
-Python code:13th of April 2020
+1. README file: 25th of April 2020
+2. Python code:13th of April 2020
 
 ### Project Title
 User analysis for bikeshare data
